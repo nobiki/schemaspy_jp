@@ -1,2 +1,2 @@
 # schemaspy_jp
-Schemaspyを日本語化したやつ
+Schemaspyを日本語化しただけのやつ
